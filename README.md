@@ -26,6 +26,6 @@ A continuación se explicarán las variables encontradas en la base de datos *sp
 - **track_genre** → Género musical al que pertenece la canción.
 
 Este proyecto incluye los siguientes documentos:
-- Reporte en formato ipynb
-- Reporte en formato html
-- Base de datos
+- [Reporte en formato ipynb]
+- [Reporte en formato html]
+- [Base de datos](A2.1.csv)
